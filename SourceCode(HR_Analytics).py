@@ -1,6 +1,6 @@
 #DINESH SAGAR
 
-#Source Code to find whether a person will leave the organisation or not
+#Source Code to find whether a person will leave the organisation or not...
 
 import numpy as np
 import pandas as pd 
