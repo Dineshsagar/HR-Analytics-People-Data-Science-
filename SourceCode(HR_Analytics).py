@@ -7,6 +7,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 df=pd.read_csv("hr_analytics.csv")
+
 df.head()
 
 from sklearn.preprocessing import LabelEncoder
