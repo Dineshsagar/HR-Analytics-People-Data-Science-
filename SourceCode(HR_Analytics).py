@@ -20,6 +20,7 @@ df.head()
 x=df.drop(['left'],axis=1)
 y=df.left
 
+
 from sklearn.preprocessing import MinMaxScaler
 mm=MinMaxScaler()
 x=mm.fit_transform(x)
